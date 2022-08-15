@@ -1,2 +1,2 @@
 # Cpp-simple-studies
-Silmple repository with c++ studies
+Simple repository with c++ studies
